@@ -1,0 +1,6 @@
+c:\users\jon\documents\visual studio 2015\Projects\lab18\lab18\bin\Debug\lab18.exe.config
+c:\users\jon\documents\visual studio 2015\Projects\lab18\lab18\bin\Debug\lab18.exe
+c:\users\jon\documents\visual studio 2015\Projects\lab18\lab18\bin\Debug\lab18.pdb
+c:\users\jon\documents\visual studio 2015\Projects\lab18\lab18\obj\Debug\lab18.csprojResolveAssemblyReference.cache
+c:\users\jon\documents\visual studio 2015\Projects\lab18\lab18\obj\Debug\lab18.exe
+c:\users\jon\documents\visual studio 2015\Projects\lab18\lab18\obj\Debug\lab18.pdb
